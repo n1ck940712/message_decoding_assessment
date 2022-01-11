@@ -1,6 +1,7 @@
-# Decoding Message Assessment
+# Decoding Message Assessment for MAX 1938 (Application Developer - Intermediate)
 
-Completed by Nicholas Hoo on 9 January 2022, for more info check screenshots included in repo.
+
+Completed by Nick Hoo on 11 January 2022.
 
 # How to get it running
 - Clone to directory from GitHub repo https://github.com/n1ck940712/message_decoding_assessment
